@@ -1,5 +1,5 @@
 # Lib-estandar-de-C
-
+https://github.com/a-navia/Lib-estandar-de-C.git
 1. Las funciones comunes del lenguaje C (<stdlib.h>)
 
 a. Utiliza la función abs() para calcular el valor absoluto de un número entero. Prueba con varios números, incluyendo negativos.
